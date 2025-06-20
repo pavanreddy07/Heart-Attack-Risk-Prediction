@@ -8,9 +8,7 @@ The goal is to assist healthcare professionals in identifying high-risk individu
 
 📊 Dataset Information
 •	Source: Kaggle
-
 •	Records: 100,000 entries
-
 •	Features:
     o	Age
     o	Gender
